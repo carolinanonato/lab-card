@@ -1,5 +1,5 @@
 First part done. Not perfect, but learning as I try.
-[Wip](./img/wip-lab.png)
+![Wip](./img/wip-lab.png)
 
 
 # Assignment: Property card
